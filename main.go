@@ -1,7 +1,7 @@
 package main
 
 import (
-	"sado/aoc23/day6"
+	"sado/aoc23/day7"
 )
 
 func main() {
@@ -10,5 +10,6 @@ func main() {
 	// day3.Day3()
 	// day4.Day4()
 	// day5.Day5() //only p1
-	day6.Day6()
+	// day6.Day6()
+	day7.Day7()
 }
